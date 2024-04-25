@@ -1,0 +1,79 @@
+[
+    {
+        "name": "Seagate Barracuda 500GB",
+        "capacity_GB": 500,
+        "performance_rating": 40,
+        "task_rating": {
+            "gaming": "low",
+            "content_creation": "low",
+            "office_tasks": "low",
+            "study": "low"
+        }
+    },
+    {
+        "name": "WD Blue 1TB",
+        "capacity_GB": 1000,
+        "performance_rating": 50,
+        "task_rating": {
+            "gaming": "low",
+            "content_creation": "low",
+            "office_tasks": "low",
+            "study": "low"
+        }
+    },
+    {
+        "name": "Seagate Barracuda 2TB",
+        "capacity_GB": 2000,
+        "performance_rating": 60,
+        "task_rating": {
+            "gaming": "low",
+            "content_creation": "low",
+            "office_tasks": "mid",
+            "study": "low"
+        }
+    },
+    {
+        "name": "WD Blue 4TB",
+        "capacity_GB": 4000,
+        "performance_rating": 70,
+        "task_rating": {
+            "gaming": "mid",
+            "content_creation": "mid",
+            "office_tasks": "mid",
+            "study": "mid"
+        }
+    },
+    {
+        "name": "Seagate Barracuda 6TB",
+        "capacity_GB": 6000,
+        "performance_rating": 80,
+        "task_rating": {
+            "gaming": "high",
+            "content_creation": "high",
+            "office_tasks": "high",
+            "study": "high"
+        }
+    },
+    {
+        "name": "WD Black 8TB",
+        "capacity_GB": 8000,
+        "performance_rating": 90,
+        "task_rating": {
+            "gaming": "excess",
+            "content_creation": "excess",
+            "office_tasks": "excess",
+            "study": "excess"
+        }
+    },
+    {
+        "name": "Seagate IronWolf 10TB",
+        "capacity_GB": 10000,
+        "performance_rating": 95,
+        "task_rating": {
+            "gaming": "excess",
+            "content_creation": "excess",
+            "office_tasks": "excess",
+            "study": "excess"
+        }
+    }
+]

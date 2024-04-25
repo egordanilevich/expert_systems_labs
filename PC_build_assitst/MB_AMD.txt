@@ -1,0 +1,27 @@
+[
+    {
+        "name": "ASUS TUF Gaming B450M-PRO S",
+        "socket": "AM4",
+        "cost_coefficient": 40
+    },
+    {
+        "name": "MSI B450 TOMAHAWK MAX",
+        "socket": "AM4",
+        "cost_coefficient": 60
+    },
+    {
+        "name": "GIGABYTE X570 AORUS MASTER",
+        "socket": "AM4",
+        "cost_coefficient": 80
+    },
+    {
+        "name": "ASRock X570 Taichi",
+        "socket": "AM4",
+        "cost_coefficient": 100
+    },
+    {
+        "name": "ASUS Pro WS WRX80E-SAGE SE WIFI",
+        "socket": "SP3",
+        "cost_coefficient": 90
+    }
+]

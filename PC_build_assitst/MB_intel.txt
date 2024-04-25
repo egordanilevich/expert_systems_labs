@@ -1,0 +1,27 @@
+[
+    {
+        "name": "ASUS Prime H410M-A",
+        "socket": "LGA1200",
+        "cost_coefficient": 30
+    },
+    {
+        "name": "MSI MAG B460M BAZOOKA",
+        "socket": "LGA1200",
+        "cost_coefficient": 50
+    },
+    {
+        "name": "GIGABYTE Z590 AORUS MASTER",
+        "socket": "LGA1200",
+        "cost_coefficient": 80
+    },
+    {
+        "name": "ASUS ROG MAXIMUS XII EXTREME",
+        "socket": "LGA1200",
+        "cost_coefficient": 100
+    },
+    {
+        "name": "ASRock X299 Taichi CLX",
+        "socket": "LGA2066",
+        "cost_coefficient": 70
+    }
+]

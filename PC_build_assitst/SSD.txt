@@ -1,0 +1,101 @@
+[
+    {
+        "name": "Kingston A2000 240GB",
+        "capacity_GB": 240,
+        "performance_rating": 60,
+        "task_rating": {
+            "gaming": "low",
+            "content_creation": "not_used",
+            "office_tasks": "low",
+            "study": "low"
+        }
+    },
+    {
+        "name": "ADATA SU635 480GB",
+        "capacity_GB": 480,
+        "performance_rating": 70,
+        "task_rating": {
+            "gaming": "mid",
+            "content_creation": "mid",
+            "office_tasks": "mid",
+            "study": "low"
+        }
+    },
+    {
+        "name": "Crucial P1 500GB",
+        "capacity_GB": 500,
+        "performance_rating": 75,
+        "task_rating": {
+            "gaming": "mid",
+            "content_creation": "mid",
+            "office_tasks": "mid",
+            "study": "low"
+        }
+    },
+    {
+        "name": "WD Green 120GB",
+        "capacity_GB": 120,
+        "performance_rating": 50,
+        "task_rating": {
+            "gaming": "not_used",
+            "content_creation": "not_used",
+            "office_tasks": "low",
+            "study": "low"
+        }
+    },
+    {
+        "name": "Team Group GX1 240GB",
+        "capacity_GB": 240,
+        "performance_rating": 55,
+        "task_rating": {
+            "gaming": "low",
+            "content_creation": "low",
+            "office_tasks": "low",
+            "study": "low"
+        }
+    },
+    {
+        "name": "Samsung 970 EVO Plus 250GB",
+        "capacity_GB": 250,
+        "performance_rating": 85,
+        "task_rating": {
+            "gaming": "high",
+            "content_creation": "mid",
+            "office_tasks": "high",
+            "study": "mid"
+        }
+    },
+    {
+        "name": "Crucial MX500 500GB",
+        "capacity_GB": 500,
+        "performance_rating": 75,
+        "task_rating": {
+            "gaming": "mid",
+            "content_creation": "low",
+            "office_tasks": "high",
+            "study": "mid"
+        }
+    },
+    {
+        "name": "WD Blue SN550 1TB",
+        "capacity_GB": 1000,
+        "performance_rating": 90,
+        "task_rating": {
+            "gaming": "excess",
+            "content_creation": "high",
+            "office_tasks": "high",
+            "study": "high"
+        }
+    },
+    {
+        "name": "Samsung 970 PRO 2TB",
+        "capacity_GB": 2000,
+        "performance_rating": 98,
+        "task_rating": {
+            "gaming": "excess",
+            "content_creation": "excess",
+            "office_tasks": "excess",
+            "study": "excess"
+        }
+    }
+]

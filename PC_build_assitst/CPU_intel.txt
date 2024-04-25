@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Intel Core i3-10100",
+    "socket": "LGA1200",
+    "performance_index": 40,
+    "power_cost": {
+      "games": "low",
+      "professional": "not_used",
+      "office": "mid",
+      "study": "low"
+    }
+  },
+  {
+    "name": "Intel Core i5-10600K",
+    "socket": "LGA1200",
+    "performance_index": 60,
+    "power_cost": {
+      "games": "mid",
+      "professional": "low",
+      "office": "high",
+      "study": "mid"
+    }
+  },
+  {
+    "name": "Intel Core i7-10700",
+    "socket": "LGA1200",
+    "performance_index": 80,
+    "power_cost": {
+      "games": "high",
+      "professional": "high",
+      "office": "excess",
+      "study": "high"
+    }
+  },
+  {
+    "name": "Intel Core i9-10900K",
+    "socket": "LGA1200",
+    "performance_index": 100,
+    "power_cost": {
+      "games": "excess",
+      "professional": "high",
+      "office": "excess",
+      "study": "excess"
+    }
+  },
+  {
+    "name": "Intel Xeon W-2295",
+    "socket": "LGA2066",
+    "performance_index": 70,
+    "power_cost": {
+      "games": "not_used",
+      "professional": "high",
+      "office": "excess",
+      "study": "not_used"
+    }
+  }
+]

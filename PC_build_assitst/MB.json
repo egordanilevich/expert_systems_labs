@@ -1,0 +1,73 @@
+[
+    {
+        "name": "ASUS Prime H410M-A",
+        "socket": "LGA1200",
+        "price": 560,
+        "performance_index": 30,
+        "usage": ["games", "professional", "office", "study"]
+    },
+    {
+        "name": "MSI MAG B460M BAZOOKA",
+        "socket": "LGA1200",
+        "price": 750,
+        "performance_index": 50,
+        "usage": ["games", "professional", "office", "study"]
+    },
+    {
+        "name": "GIGABYTE Z590 AORUS MASTER",
+        "socket": "LGA1200",
+        "price": 750,
+        "performance_index": 80,
+        "usage": ["games", "professional", "office", "study"]
+    },
+    {
+        "name": "ASUS ROG MAXIMUS XII EXTREME",
+        "socket": "LGA1200",
+        "price": 950,
+        "performance_index": 100,
+        "usage": ["games", "professional", "office", "study"]
+    },
+    {
+        "name": "ASRock X299 Taichi CLX",
+        "socket": "LGA2066",
+        "price": 444,
+        "performance_index": 70,
+        "usage": ["games", "professional", "office", "study"]
+    },
+    {
+        "name": "ASUS TUF Gaming B450M-PRO S",
+        "socket": "AM4",
+        "price": 300,
+        "performance_index": 40,
+        "usage": ["games", "professional", "office", "study"]
+    },
+    {
+        "name": "MSI B450 TOMAHAWK MAX",
+        "socket": "AM4",
+        "price": 564,
+        "performance_index": 60,
+        "usage": ["games", "professional", "office", "study"]
+    },
+    {
+        "name": "GIGABYTE X570 AORUS MASTER",
+        "price": 777,
+        "socket": "AM4",
+        "performance_index": 80,
+        "usage": ["games", "professional", "office", "study"]
+    },
+    {
+        "name": "ASRock X570 Taichi",
+        "price": 345,
+        "socket": "AM4",
+        "performance_index": 100,
+        "usage": ["games", "professional", "office", "study"]
+    },
+    {
+        "name": "ASUS Pro WS WRX80E-SAGE SE WIFI",
+        "price": 988,
+        "socket": "SP3",
+        "performance_index": 90,
+        "usage": ["games", "professional", "office", "study"]
+    }
+
+]

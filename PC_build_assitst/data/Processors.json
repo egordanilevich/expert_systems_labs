@@ -1,0 +1,82 @@
+[
+    {
+        "vendor": "Intel",
+        "name": "Intel Core i3-10100",
+        "socket": "LGA1200",
+        "price": 11500,
+        "performance_index": 40,
+        "usage": ["office", "study"]
+    },
+    {
+        "vendor": "Intel",
+        "name": "Intel Core i5-10600K",
+        "socket": "LGA1200",
+        "price": 16000,
+        "performance_index": 60,
+        "usage": ["games", "office", "study"]
+    },
+    {
+        "vendor": "Intel",
+        "name": "Intel Core i7-10700",
+        "socket": "LGA1200",
+        "price": 23200,
+        "performance_index": 80,
+        "usage": ["games", "professional", "office", "study"]
+    },
+    {
+        "vendor": "Intel",
+        "name": "Intel Core i9-10900K",
+        "socket": "LGA1200",
+        "price": 43000,
+        "performance_index": 100,
+        "usage": ["games", "professional", "office", "study"]
+    },
+    {
+        "vendor": "Intel",
+        "name": "Intel Xeon W-2295",
+        "socket": "LGA2066",
+        "price": 193000,
+        "performance_index": 70,
+        "usage": ["professional", "office"]
+    },
+    {
+        "vendor": "AMD",
+        "name": "AMD Ryzen 3 3100",
+        "socket": "AM4",
+        "price": 9000,
+        "performance_index": 30,
+        "usage": ["professional", "office"]
+      },
+      {
+        "vendor": "AMD",
+        "name": "AMD Ryzen 5 3600",
+        "socket": "AM4",
+        "price": 13650,
+        "performance_index": 50,
+        "usage": ["games", "professional", "office", "study"]
+      },
+      {
+        "vendor": "AMD",
+        "name": "AMD Ryzen 7 3700X",
+        "socket": "AM4",
+        "price": 36000,
+        "performance_index": 70,
+        "usage": ["games", "professional", "office", "study"]
+      },
+      {
+        "vendor": "AMD",
+        "name": "AMD Ryzen 9 5900X",
+        "socket": "AM4",
+        "price": 44980,
+        "performance_index": 90,
+        "usage": ["games", "professional", "office", "study"]
+      },
+      {
+        "vendor": "AMD",
+        "name": "AMD EPYC 7452",
+        "socket": "SP3",
+        "performance_index": 80,
+        "price": 108280,
+        "usage": ["professional", "office", "study"]
+      }
+]

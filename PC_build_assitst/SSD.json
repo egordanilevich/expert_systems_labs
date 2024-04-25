@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Kingston A2000 240GB",
+        "price": 1000,
+        "capacity_GB": 240,
+        "performance_index": 60,
+        "usage": ["office_tasks", "study"]
+    },
+    {
+        "name": "ADATA SU635 480GB",
+        "price": 3200,
+        "capacity_GB": 480,
+        "performance_index": 70,
+        "usage": ["gaming", "content_creation", "office_tasks"]
+    },
+    {
+        "name": "Crucial P1 500GB",
+        "price": 6155,
+        "capacity_GB": 500,
+        "performance_index": 75,
+        "usage": ["gaming", "content_creation", "office_tasks"]
+    },
+    {
+        "name": "WD Green 120GB",
+        "price": 900,
+        "capacity_GB": 120,
+        "performance_index": 50,
+        "usage": ["office_tasks", "study"]
+    },
+    {
+        "name": "Team Group GX1 240GB",
+        "price": 2200,
+        "capacity_GB": 240,
+        "performance_index": 55,
+        "usage": ["gaming", "content_creation", "office_tasks", "study"]
+    },
+    {
+        "name": "Samsung 970 EVO Plus 250GB",
+        "price": 3000,
+        "capacity_GB": 250,
+        "performance_index": 85,
+        "usage": ["gaming", "content_creation", "office_tasks", "study"]
+    },
+    {
+        "name": "Crucial MX500 500GB",
+        "price": 5000,
+        "capacity_GB": 500,
+        "performance_index": 75,
+        "usage": ["gaming", "office_tasks", "study"]
+    },
+    {
+        "name": "WD Blue SN550 1TB",
+        "price": 8600,
+        "capacity_GB": 1000,
+        "performance_index": 90,
+        "usage": ["gaming", "content_creation", "office_tasks", "study"]
+    },
+    {
+        "name": "Samsung 970 PRO 2TB",
+        "price": 18300,
+        "capacity_GB": 2000,
+        "performance_index": 98,
+        "usage": ["gaming", "content_creation", "office_tasks", "study"]
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Seagate Barracuda 500GB",
+        "price": 3000, 
+        "capacity_GB": 500,
+        "performance_index": 40,
+        "usage": ["games", "professional", "office", "study"]
+        }
+    },
+    {
+        "name": "WD Blue 1TB",
+        "price": 4000,
+        "capacity_GB": 1000,
+        "performance_index": 50,
+        "usage": ["games", "professional", "office", "study"]
+        }
+    },
+    {
+        "name": "Seagate Barracuda 2TB",
+        "price": 4000,
+        "capacity_GB": 2000,
+        "performance_index": 60,
+        "usage": ["games", "professional", "office", "study"]
+        }
+    },
+    {
+        "name": "WD Blue 4TB",
+        "price": 3000,
+        "capacity_GB": 4000,
+        "performance_index": 70,
+        "usage": ["games", "professional", "office", "study"]
+        }
+    },
+    {
+        "name": "Seagate Barracuda 6TB",
+        "price": 4342,
+        "capacity_GB": 6000,
+        "performance_index": 80,
+        "usage": ["games", "professional", "office", "study"]
+        }
+    },
+    {
+        "name": "WD Black 8TB",
+        "price": 4534,
+        "capacity_GB": 8000,
+        "performance_index": 90,
+        "usage": ["games", "professional", "office", "study"]
+        }
+    },
+    {
+        "name": "Seagate IronWolf 10TB",
+        "price": 7000,
+        "capacity_GB": 10000,
+        "performance_index": 95,
+        "usage": ["games", "professional", "office", "study"]
+        }
+    }
+]

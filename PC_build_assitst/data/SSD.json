@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Kingston A2000 240GB",
+        "prise": 1000,
+        "size": 240,
+        "performance_index": 60,
+        "usage": ["office", "study"]
+    },
+    {
+        "name": "ADATA SU635 480GB",
+        "size": 480,
+        "performance_index": 70,
+        "usage": ["games", "professional", "office", "study"]
+    },
+    {
+        "name": "Crucial P1 500GB",
+        "size": 500,
+        "performance_index": 75,
+        "usage": ["games", "professional", "office", "study"]
+    },
+    {
+        "name": "WD Green 120GB",
+        "size": 120,
+        "performance_index": 50,
+        "usage": ["games", "professional", "office", "study"]
+    },
+    {
+        "name": "Team Group GX1 240GB",
+        "size": 240,
+        "performance_index": 55,
+        "usage": ["games", "professional", "office", "study"]
+    },
+    {
+        "name": "Samsung 970 EVO Plus 250GB",
+        "size": 250,
+        "performance_index": 85,
+        "usage": ["games", "professional", "office", "study"]
+    },
+    {
+        "name": "Crucial MX500 500GB",
+        "size": 500,
+        "performance_index": 75,
+        "usage": ["games", "professional", "office", "study"]
+    },
+    {
+        "name": "WD Blue SN550 1TB",
+        "size": 1000,
+        "performance_index": 90,
+        "usage": ["games", "professional", "office", "study"]
+    },
+    {
+        "name": "Samsung 970 PRO 2TB",
+        "size": 2000,
+        "performance_index": 98,
+        "usage": ["games", "professional", "office", "study"]
+    }
+]

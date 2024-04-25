@@ -1,0 +1,42 @@
+[
+  {
+    "name": "AMD Radeon RX 550",
+    "performance_index": 20,
+    "power_cost": {
+      "games": "low",
+      "professional": "low",
+      "office": "mid",
+      "study": "low"
+    }
+  },
+  {
+    "name": "AMD Radeon RX 5600 XT",
+    "performance_index": 50,
+    "power_cost": {
+      "games": "mid",
+      "professional": "mid",
+      "office": "mid",
+      "study": "mid"
+    }
+  },
+  {
+    "name": "AMD Radeon RX 6800",
+    "performance_index": 80,
+    "power_cost": {
+      "games": "high",
+      "professional": "high",
+      "office": "high",
+      "study": "high"
+    }
+  },
+  {
+    "name": "AMD Radeon RX 6900 XT",
+    "performance_index": 100,
+    "power_cost": {
+      "games": "excess",
+      "professional": "excess",
+      "office": "excess",
+      "study": "excess"
+    }
+  }
+]

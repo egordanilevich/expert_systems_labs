@@ -1,0 +1,42 @@
+[
+  {
+    "name": "NVIDIA GeForce GT 1030",
+    "performance_index": 20,
+    "power_cost": {
+      "games": "low",
+      "professional": "low",
+      "office": "low",
+      "study": "low"
+    }
+  },
+  {
+    "name": "NVIDIA GeForce GTX 1660",
+    "performance_index": 50,
+    "power_cost": {
+      "games": "mid",
+      "professional": "mid",
+      "office": "mid",
+      "study": "mid"
+    }
+  },
+  {
+    "name": "NVIDIA GeForce RTX 3060",
+    "performance_index": 80,
+    "power_cost": {
+      "games": "high",
+      "professional": "high",
+      "office": "high",
+      "study": "high"
+    }
+  },
+  {
+    "name": "NVIDIA GeForce RTX 3080",
+    "performance_index": 100,
+    "power_cost": {
+      "games": "excess",
+      "professional": "excess",
+      "office": "excess",
+      "study": "excess"
+    }
+  }
+]
